@@ -1,0 +1,19 @@
+{
+    "gpu_used": true,
+    "fast_mode": true,
+    "run_tuning": false,
+    "n_splits": 3,
+    "n_trials": 0,
+    "baseline_validation_auc": 0.791308838903703,
+    "cv_scores": [
+        0.7894948178409229,
+        0.7894233226703384,
+        0.7894384296647831
+    ],
+    "mean_cv_auc": 0.7894521900586815,
+    "oof_auc": 0.7894445369370258,
+    "final_iterations": 2472,
+    "categorical_feature_count": 131,
+    "numeric_feature_count": 743,
+    "feature_count_used": 874
+}
