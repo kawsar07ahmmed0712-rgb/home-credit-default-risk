@@ -25,7 +25,7 @@ class Settings:
 
     @property
     def missingness_report_path(self) -> Path:
-        return self.root_dir / "Report" / "missingness_report.csv"
+        return self.root_dir / "Report" / "2.missingness_report.csv"
 
     @property
     def target_aware_report_path(self) -> Path:

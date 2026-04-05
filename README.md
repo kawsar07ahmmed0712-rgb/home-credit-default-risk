@@ -24,7 +24,7 @@ The frontend is structured around reusable page sections, chart cards, audit pan
 The current build is backed by existing project artifacts:
 
 - `Report/9.master_consolidated_report.csv`
-- `Report/missingness_report.csv`
+- `Report/2.missingness_report.csv`
 - `Report/8.numerical_target_aware.csv`
 - `Data/Processed/final_train_before_eda.csv`
 - `Data/Processed/final_test_before_eda.csv`
